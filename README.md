@@ -1,5 +1,4 @@
-# k8s-mengfanjie
-孟凡杰
+# k8s
 ## 本地启动
 ```
 mkdocs serve
