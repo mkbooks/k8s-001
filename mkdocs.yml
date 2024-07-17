@@ -1,5 +1,5 @@
 site_name: 云原生系列学习
-site_url: https://mkbooks.github.io/k8s-mengfanjie/
+site_url: https://mkbooks.github.io/k8s/
 
 theme:
   name: material
